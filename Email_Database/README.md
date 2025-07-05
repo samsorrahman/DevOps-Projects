@@ -22,7 +22,8 @@ The goal of this project is to automate the deployment of a Flask application on
 ---
 
 ### App Demo
-<img src="./readme-files/appdemo.gif" alt="App Demo" width="600"/>
+<img src="https://github.com/user-attachments/assets/cff0e568-281a-4558-9a74-5a7efdb97207" alt="App Demo" width="600"/>
+
 
 ---
 
